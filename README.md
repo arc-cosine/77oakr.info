@@ -31,10 +31,6 @@
 
 > URL 예시: `https://77oakr.info` <= 더 이상 관리되지 않습니다. (아닐sudo)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/preview-nanao-feed.png" width="600" alt="나나오 아카리 피드 미리보기" />
-</p>
-
 ---
 
 ## 📁 디렉토리 구조
